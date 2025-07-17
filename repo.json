@@ -1,0 +1,20 @@
+{
+    "name": "TamilDhool Repository",
+    "description": "Cloudstream repository for Tamil TV serials and shows from TamilDhool",
+    "manifestVersion": 1,
+    "pluginLists": [
+        {
+            "name": "TamilDhool",
+            "description": "Tamil TV content from TamilDhool with Dailymotion support",
+            "pluginClassName": "com.tamildhool.TamilDhoolProvider",
+            "version": 1,
+            "tvTypes": ["TvSeries", "Movie"],
+            "language": "ta",
+            "authors": ["TamilDhool"],
+            "iconUrl": "https://www.tamildhool.net/wp-content/uploads/2020/08/cropped-tamildhool-favicon-32x32.png",
+            "url": "https://github.com/aravinddwara/tdcs/releases/latest/download/TamilDhool.cs3",
+            "status": 1,
+            "internalName": "TamilDhool"
+        }
+    ]
+}
