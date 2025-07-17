@@ -1,0 +1,14 @@
+{
+    "pluginClassName": "com.tamildhool.TamilDhoolProvider",
+    "name": "TamilDhool",
+    "description": "Tamil TV serials and shows from TamilDhool with Dailymotion support. Supports Vijay TV, Sun TV, Zee Tamil, and Kalaignar TV channels.",
+    "authors": ["TamilDhool"],
+    "repositoryUrl": "https://github.com/aravinddwara/tdcs",
+    "version": 1,
+    "tvTypes": ["TvSeries", "Movie"],
+    "language": "ta",
+    "iconUrl": "https://www.tamildhool.net/wp-content/uploads/2020/08/cropped-tamildhool-favicon-32x32.png",
+    "url": "https://github.com/aravinddwara/tdcs/releases/latest/download/TamilDhool.cs3",
+    "status": 1,
+    "internalName": "TamilDhool"
+}
